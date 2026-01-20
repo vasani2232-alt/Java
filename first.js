@@ -1,14 +1,15 @@
-/*fullname = "Tony stark";
-age = 19;
-price = 99.99;
-radius = 14;
-x = null; 
-y = undefined;
-isFollow = true;
-fullname = 28;
-console.log(fullname); */
-fullname = "vidhi vasani";
-FULLNAME = "vidhi";
+/*const product = {
+    title: "Ball pen",
+    rating: 4,
+    offer: 5,
+    price: 270
+};
+console.log(product);*/
 
-console.log(fullname);
-console.log(FULLNAME);
+const profile = {
+    username: "@Vidhi Vasani",
+    isfollow: false,
+    followers: 123,
+    following: 123,
+};
+console.log(typeof profile["username"]);
